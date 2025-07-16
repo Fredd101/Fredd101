@@ -2,35 +2,10 @@
 <hr>
 
 
-
+## 🌱 About Me
 🚀 **Crafting digital experiences** from backend logic to pixel-perfect frontends  
 💻 **Tech enthusiast** passionate about Web3, AI, and building scalable systems  
-
-## 🌱 About Me
-
-🔭 **Currently:**  
-- Building **[Exotic Wheels Gallery](https://github.com/fredd101/exotic-wheels-liart.vercel.app)**  
-- Exploring **Blockchain integration** in web applications  
-
-🌱 **Learning:**  
-- **Next.js** for full-stack React applications  
-- **Rust** for high-performance systems  
-- **AI/ML** fundamentals for smart applications  
-- **Solidity** for Web3 development  
-
-💬 **Ask me about:**  
-- Full-stack architecture (Laravel/PHP)  
-- Open source contributions  
-- DevOps best practices  
-- Tech career growth  
-
-⚡ **Fun fact:** My first line of code wasn't "Hello, World!"—it was "Oops, what did I just break?" 😅  
-
-📫 **Let's connect:**  
-📧 cmacobia@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-## **🔗 Connect with me**  
+ 
 
 | [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=fredd101.fredd101&label=Profile+Views) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) | [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-FF5722?style=flat)](https://yourportfolio.com) |
 |----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
