@@ -1,10 +1,10 @@
 Hi 👋, I'M Fredrick
 <hr>
 
-🌱 Learning **Next.js, Rust, AI, etc.**  
-💬 Ask me about **Web Dev, Open Source, or [Your Expertise]**  
-⚡ Fun fact: **I once [fun fact about you]** 
-🔭 I’m currently working on **[Cool Project](https://github.com/fredd101/exotic-wheels-liart.vercel.app)**  
+
+
+## **🔗 Connect with me**  
+
 | [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=fredd101.fredd101&label=Profile+Views) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) | [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-FF5722?style=flat)](https://yourportfolio.com) |
 |----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 
@@ -15,7 +15,7 @@ Hi 👋, I'M Fredrick
 
 
 
-## **🛠 Tech Stack**  
+## **🛠 Tech Stack tools**  
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/) 
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com) 
