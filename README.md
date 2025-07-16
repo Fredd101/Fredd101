@@ -5,25 +5,15 @@ Hi 👋, I'M Fredrick
 💬 Ask me about **Web Dev, Open Source, or [Your Expertise]**  
 ⚡ Fun fact: **I once [fun fact about you]** 
 🔭 I’m currently working on **[Cool Project](https://github.com/fredd101/exotic-wheels-liart.vercel.app)**  
-
+| [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=fredd101.fredd101&label=Profile+Views) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) | [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-FF5722?style=flat)](https://yourportfolio.com) |
+|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 
 ---
 
+<hr>
+
 
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-<div align="center">
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fredd101.fredd101&label=Profile+Views" alt="Visitors" style="margin: 0 10px;"/>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/🌐-Portfolio-FF5722?style=flat" alt="Portfolio"/>
-  </a>
-</div>
 
 
 
