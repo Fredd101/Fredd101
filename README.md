@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi 👋, I'M Fredrick
+
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 <!--
 **Fredd101/Fredd101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
