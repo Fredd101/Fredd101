@@ -1,10 +1,11 @@
-# 👋 Hi, I'm [FREDRICK], a Full-stack Web Developer
+ Hi 👋, I'm Fredrick
 <hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7CF15&center=true&vCenter=true&width=467&height=65&lines=Crafting+digital+experiences+from+;+Backend+logic+to+perfect+Frontend;passionate+about+Web3%2C+AI%2C;+and+building+scalable+systems++++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=381DF7&center=true&vCenter=true&width=467&height=65&lines=A+Full-stack+Web+Developer;Blockchain+Enthusiast;Open+Source+Contributor;A+problem+Solver" alt="Typing SVG" /></a>
 <hr>
 
 ## 🌱 About M
-🔭 I’m currently diving deeper into Full-Stack Web Development, Blockchain Technology,API Developemnt and Intergration.
+Currently mastering HTML, Tailwind CSS, Bootstrap, JavaScript, MYSQL, PHP, and Laravel through hands-on projects.
+Building the web, one project at a time and also diving deeper into Blockchain Technology.
 
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
