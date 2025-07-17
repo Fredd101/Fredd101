@@ -34,7 +34,7 @@ Building the web, one project at a time and also diving deeper into Blockchain T
 ## **📫 How to Reach Me**  
 📧 **Email**: driklab2dev@gmail.com  
 🔗 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
-🐦 **Twitter**: [@yourhandle](https://x.com/codewithfredd?s=21)  
+🐦 **Twitter**: [@codewithfredd](https://x.com/codewithfredd?s=21)  
 💼 **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)  
 ⭐ **Star my repos if you find them useful!** 
 
