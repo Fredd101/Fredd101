@@ -1,20 +1,16 @@
 # 👋 Hi, I'm [FREDRICK], a Full-stack Web Developer
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7CF15&center=true&vCenter=true&width=467&height=65&lines=Crafting+digital+experiences+from+;+Backend+logic+to+perfect+Frontend;passionate+about+Web3%2C+AI%2C;+and+building+scalable+systems++++" alt="Typing SVG" /></a>
-<hr>
 
 ## 🌱 About Me
-🔭 I’m currently diving deeper into Full-Stack Web Development, Blockchain Technology, API Developemnt and Intergration.
- 
+🔭 I’m currently diving deeper into Full-Stack Web Development, Blockchain Technology, 
+API Developemnt and Intergration.
+ |-----------------------------------------------------------------------------------------------------------------------
+
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 | [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=fredd101.fredd101&label=Profile+Views) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) | [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-FF5722?style=flat)](https://yourportfolio.com) |
-|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-
----
-
-
-
+|-----------------------------------------------------------------------------------------------------------------------
 
 
 ## **🛠 Tech Stack tools**  
@@ -42,7 +38,7 @@
 ## **📫 How to Reach Me**  
 📧 **Email**: driklab2dev@gmail.com  
 🔗 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
-🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
+🐦 **Twitter**: [@yourhandle](https://twitter.com/codewithfredd)  
 💼 **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)  
 
 ⭐ **Star my repos if you find them useful!** 
