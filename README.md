@@ -36,12 +36,12 @@ Building the web, one project at a time and also diving deeper into Blockchain T
 🔗 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)  
 🐦 **Twitter**: [@yourhandle](https://twitter.com/codewithfredd)  
 💼 **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)  
-
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-
 ⭐ **Star my repos if you find them useful!** 
 
+
+
+
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
 <!--
