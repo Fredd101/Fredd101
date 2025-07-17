@@ -1,6 +1,7 @@
  Hi 👋, I'm Fredrick
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=27E4F7&center=true&width=467&height=65&lines=A+Full-stack+Web+Developer;Blockchain+Enthusiast;Open+Source+Contributor;A+problem+Solver" alt="Typing SVG" /></a>
+<hr>
 
 ## 🌱 About M
 Currently mastering HTML, Tailwind CSS, Bootstrap, JavaScript, MYSQL, PHP, and Laravel through hands-on projects.
