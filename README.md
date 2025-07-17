@@ -6,11 +6,7 @@
 Currently mastering HTML, Tailwind CSS, Bootstrap, JavaScript, MYSQL, PHP, and Laravel through hands-on projects.
 Building the web, one project at a time and also diving deeper into Blockchain Technology.
 
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-| [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=fredd101.fredd101&label=Profile+Views) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) | [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-FF5722?style=flat)](https://yourportfolio.com) |
-|-----------------------------------------------------------------------------------------------------------------------
-
+| [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=fredd101.fredd101&label=Profile+Views) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) | [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-FF5722?style=flat)](https://yourportfolio.com)
 
 ## **🛠 Tech Stack tools**  
  
@@ -41,6 +37,8 @@ Building the web, one project at a time and also diving deeper into Blockchain T
 💼 **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)  
 
 ⭐ **Star my repos if you find them useful!** 
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
 
 <!--
 **Fredd101/Fredd101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
