@@ -4,9 +4,9 @@
 <hr>
 
 ## 🌱 About Me
-🚀 **Crafting digital experiences** from backend logic to pixel-perfect frontends  
-💻 **Tech enthusiast** passionate about Web3, AI, and building scalable systems  
+🔭 I’m currently diving deeper into Full-Stack Web Development, Blockchain Technology, API Developemnt and Intergration.
  
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 | [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=fredd101.fredd101&label=Profile+Views) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) | [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-FF5722?style=flat)](https://yourportfolio.com) |
 |----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -14,7 +14,6 @@
 ---
 
 
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
 
