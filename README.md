@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [FREDRICK], a Full-stack Web Developer
 <hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=21&pause=1000&color=F7CF15&width=443&height=57&lines=Crafting+digital+experiences+from+;+Backend+logic+to+perfect+Frontend;passionate+about+Web3%2C+AI%2C;+and+building+scalable+systems++++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7CF15&center=true&vCenter=true&multiline=true&width=457&height=65&lines=Crafting+digital+experiences+from+;+Backend+logic+to+perfect+Frontend;passionate+about+Web3%2C+AI%2C;+and+building+scalable+systems++++" alt="Typing SVG" /></a>
 <hr>
 
 ## 🌱 About Me
